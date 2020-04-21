@@ -9,3 +9,6 @@ https://github.com/Morpher/PlanetAssault/releases
 
 ## Video
 [![Alt text](https://img.youtube.com/vi/r5BovpkWxDk/0.jpg)](https://youtu.be/r5BovpkWxDk) 
+
+## Thanks
+This project uses adapted Kepler Orbits simulation from https://github.com/Karth42/SimpleKeplerOrbits
