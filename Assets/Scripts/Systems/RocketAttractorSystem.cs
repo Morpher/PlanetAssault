@@ -8,6 +8,9 @@ using Unity.Transforms;
 
 namespace Systems
 {
+    /// <summary>
+    /// Calculate gravitanional force which affects rockets 
+    /// </summary>
     [UpdateBefore(typeof(EntityRemovalSystem))]
     public class RocketAttractorSystem : JobComponentSystem
     {

@@ -8,6 +8,9 @@ using Unity.Transforms;
 
 namespace Systems
 {
+    /// <summary>
+    /// Hit detection system, rockets with planets
+    /// </summary>
     public class RocketCollisionSystem : JobComponentSystem
     {
         private EntityCommandBufferSystem barrier;

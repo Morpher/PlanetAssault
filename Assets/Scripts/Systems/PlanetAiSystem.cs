@@ -10,6 +10,9 @@ using Random = Unity.Mathematics.Random;
 
 namespace Systems
 {
+    /// <summary>
+    /// Simple AI system
+    /// </summary>
     [UpdateBefore(typeof(EntityRemovalSystem))]
     public class PlanetAiSystem : JobComponentSystem
     {

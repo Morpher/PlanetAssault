@@ -8,6 +8,9 @@ using Unity.Mathematics;
 
 namespace Systems.Orbit
 {
+	/// <summary>
+	/// Modified part of Kepler Orbits simulation from https://github.com/Karth42/SimpleKeplerOrbits
+	/// </summary>
 	public class StaticOrbitMotionSystem : JobComponentSystem
 	{
 		public double GravConstant = 0.1d;

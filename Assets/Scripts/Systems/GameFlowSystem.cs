@@ -9,6 +9,9 @@ using UnityEngine;
 
 namespace Systems
 {
+    /// <summary>
+    /// Changes game state depending on the counting alive planets
+    /// </summary>
     public class GameFlowSystem : SystemBase
     {
         protected override void OnUpdate()

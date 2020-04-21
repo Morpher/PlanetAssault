@@ -3,6 +3,9 @@ using Unity.Mathematics;
 
 namespace Components
 {
+    /// <summary>
+    /// Simple AI component
+    /// </summary>
     [GenerateAuthoringComponent]
     public struct AiPlanetComponent : IComponentData
     {
