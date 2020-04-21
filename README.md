@@ -1,4 +1,7 @@
-# Planet Assault
+# Planet Assault  
+Download Windows build:  
+https://github.com/Morpher/PlanetAssault/releases  
+
 ## Controls:   
 **SPACE** - shoot  
 **ESC** - exit  
